@@ -1,2 +1,6 @@
-Sample
-      trying to add new lines
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID.  HELLO.
+       ENVIRONMENT DIVISION.
+       PROCEDURE DIVISION.
+           DISPLAY "HELLO".
+           STOP RUN.
